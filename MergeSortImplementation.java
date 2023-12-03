@@ -1,6 +1,6 @@
 public class MergeSortImplementation  {
 
-    public void mergeSort(int[] arr) {
+    /**/public void mergeSort(int[] arr) {
         sort(arr, 0, arr.length - 1);
     }
 

@@ -1,7 +1,7 @@
 public class HeapSortImplementation {
 
     public static void heapSort(int[] arr) {
-        int n = arr.length;
+        int n = arr.length; // 
 
         // Build heap (rearrange array)
         for (int i = n / 2 - 1; i >= 0; i--) {

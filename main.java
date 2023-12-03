@@ -26,7 +26,7 @@ public class InsertionSort {
 
 		    public static void printArray(int[] arr) {
 			            for (int value : arr) {
-					                System.out.print(value + " ");
+					                System.out.print(value + "dd ");
 							        }
 				            System.out.println();
 					        }

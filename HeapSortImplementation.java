@@ -15,7 +15,7 @@ public class HeapSortImplementation {
             arr[0] = arr[i];
             arr[i] = temp;
 
-            // call max heapify   on the reduced heap
+            
             heapify(arr, i, 0);
         }
     }
